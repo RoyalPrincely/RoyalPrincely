@@ -3,6 +3,8 @@
 
 ## 📦 Technologies
 
+- `HTML`
+- `Javascript`
 - `React.js`
 - `TypeScript`
 - `CSS`
