@@ -1,5 +1,5 @@
 # About Me
-👋 I'm Prince.<br>🔭 I’m currently working on multiple websites.<br>👯 I’m looking to collaborate with others on my websites.<br>🤝 I’m looking for help with websites i'm making.<br>🌱 I’m currently learning how to code.<br>💬 Ask me about anything.<br>🤝 I'm looking for help with coding and website making, I made a<br>website.
+👋 I'm Prince.<br>🔭 I’m currently working on multiple websites.<br>👯 I’m looking to collaborate with others on my websites.<br>🤝 I’m looking for help with websites i'm making.<br>🌱 I’m currently learning how to code.<br>💬 Ask me about anything.<br>🤝 I'm looking for help with coding and website making, and I made a<br>website.
 
 ## 📦 Technologies
 
